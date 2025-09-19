@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon Scraper</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Amazon Product Scraper</h1>
+
+        <form method="POST" class="search-form">
+            <input type="text" name="query" placeholder="Search products..." value="{{ query }}">
+            <button type="submit">Search</button>
+        </form>
+
+        <div class="products">
+            {% if products %}
+                {% for product in products %}
+                <div class="product-card">
+                    <h2>{{ product.title }}</h2>
+                    <p>Price: {{ product.price }}</p>
+                    <p>Rating: {{ product.rating }}</p>
+                    <p>Reviews: {{ product.reviews }}</p>
+                </div>
+                {% endfor %}
+            {% else %}
+                <p>No products found 😔</p>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>
