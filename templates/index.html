@@ -3,32 +3,80 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Amazon Scraper</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>Amazon Scraper - Products</title>
+    <style>
+        body {
+            background: #f2f2f2;
+            font-family: Arial, sans-serif;
+            margin: 0;
+        }
+        header {
+            background: #232f3e;
+            padding: 15px;
+            text-align: center;
+            color: white;
+        }
+        form {
+            margin: 15px auto;
+            text-align: center;
+        }
+        input {
+            padding: 8px;
+            width: 250px;
+        }
+        button {
+            padding: 8px 15px;
+            background: #ff9900;
+            border: none;
+            cursor: pointer;
+            margin-left: 5px;
+        }
+        .container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            padding: 20px;
+        }
+        .card {
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease;
+        }
+        .card:hover {
+            transform: scale(1.05);
+        }
+        .card img {
+            width: 100%;
+            height: 180px;
+            object-fit: cover;
+            border-radius: 6px;
+        }
+        h3 {
+            margin: 10px 0;
+        }
+    </style>
 </head>
 <body>
+    <header>
+        <h1>Amazon Scraper</h1>
+    </header>
+    <form method="POST">
+        <input type="text" name="query" placeholder="Search for products..." value="{{ query }}">
+        <button type="submit">Search</button>
+    </form>
     <div class="container">
-        <h1>Amazon Product Scraper</h1>
-
-        <form method="POST" class="search-form">
-            <input type="text" name="query" placeholder="Search products..." value="{{ query }}">
-            <button type="submit">Search</button>
-        </form>
-
-        <div class="products">
-            {% if products %}
-                {% for product in products %}
-                <div class="product-card">
-                    <h2>{{ product.title }}</h2>
-                    <p>Price: {{ product.price }}</p>
-                    <p>Rating: {{ product.rating }}</p>
-                    <p>Reviews: {{ product.reviews }}</p>
-                </div>
-                {% endfor %}
-            {% else %}
-                <p>No products found 😔</p>
-            {% endif %}
+        {% for product in products %}
+        <div class="card">
+            <!-- Random placeholder image -->
+            <img src="https://picsum.photos/300/200?random={{ loop.index }}" alt="Product image">
+            <h3>{{ product.title }}</h3>
+            <p><strong>Price:</strong> {{ product.price }}</p>
+            <p><strong>Rating:</strong> {{ product.rating or 'N/A' }}</p>
+            <p><strong>Reviews:</strong> {{ product.reviews or 'N/A' }}</p>
         </div>
+        {% endfor %}
     </div>
 </body>
 </html>
