@@ -1,48 +1,43 @@
+<!-- templates/splash.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Amazon Scraper - Welcome</title>
-    <style>
-        body {
-            background: linear-gradient(135deg, #232f3e, #37475a);
-            color: #fff;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            flex-direction: column;
-            font-family: Arial, sans-serif;
-            animation: fadeIn 2s ease-in;
-        }
-        h1 {
-            font-size: 2.5rem;
-            margin-bottom: 20px;
-        }
-        button {
-            padding: 12px 25px;
-            background: #ff9900;
-            border: none;
-            border-radius: 6px;
-            font-size: 1.2rem;
-            cursor: pointer;
-            transition: 0.3s;
-        }
-        button:hover {
-            background: #e68a00;
-        }
-        @keyframes fadeIn {
-            from {opacity: 0;}
-            to {opacity: 1;}
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Splash Screen</title>
+  <style>
+    body {
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      background: #232f3e; /* Amazon dark header color */
+      color: white;
+      font-family: Arial, sans-serif;
+    }
+    img {
+      width: 250px;
+      margin-bottom: 30px;
+    }
+    button {
+      padding: 12px 24px;
+      font-size: 18px;
+      background: #ff9900;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+    button:hover {
+      background: #f90;
+      transform: scale(1.05);
+    }
+  </style>
 </head>
 <body>
-    <h1>Welcome to Amazon Scraper</h1>
-    <p>Your gateway to product insights 🚀</p>
-    <form action="/home">
-        <button type="submit">Continue</button>
-    </form>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon Logo">
+  <button onclick="window.location.href='/home'">Continue</button>
 </body>
 </html>
