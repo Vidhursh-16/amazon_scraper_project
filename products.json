@@ -1,176 +1,205 @@
 [
     {
-        "title": "HP OmniBook 5 OLED (Previously Pavilion), Snapdragon X Processor (16GB LPDDR5x, 512GB SSD) 2K, 14''/35.6cm, Win11, M365 Basic(1yr)* Office24, Silver, 1.35kg, he0014QU, Light-Weight, Next-Gen AI Laptop",
-        "price": "₹67,990",
-        "rating": "4.0 out of 5 stars",
-        "reviews": "29"
-    },
-    {
         "title": "HP 15, 13th Gen Intel Core i5-1334U (16GB DDR4, 512GB SSD) Anti-Glare, Micro-Edge, 15.6''/39.6cm, FHD, Win 11, Office 24, Silver, 1.59kg, fd0467tu, Iris Xe Graphics, FHD Camera, Backlit KB Laptop",
-        "price": "₹55,990",
+        "price": "₹47,990",
         "rating": "3.8 out of 5 stars",
-        "reviews": "228"
-    },
-    {
-        "title": "HP Pavilion x360, 13th Gen Intel Core i5-1335U (16GB DDR4, 512GB SSD) Touchscreen, 14\"/35.6cm, FHD, Win 11, Office 21, Silver, 1.51kg, ek1074tu/1148tu, Iris Xe, FPR, 5MP Camera, Backlit KB Laptop",
-        "price": "₹66,490",
-        "rating": "3.7 out of 5 stars",
-        "reviews": "220"
-    },
-    {
-        "title": "Acer Aspire Lite, AMD Ryzen 3 5300U Processor, 16 GB RAM, 512GB SSD, Full HD, 15.6\"/39.62cm, Windows 11 Home, Steel Gray, 1.59KG, AL15-41, Metal Body, Premium Thin and Light Laptop",
-        "price": "₹27,999",
-        "rating": "3.9 out of 5 stars",
-        "reviews": "1,551"
-    },
-    {
-        "title": "Dell Latitude 3440 Laptop (12th Gen Intel Core i3-1215U / 8GB RAM / 512GB SSD / 14\" HD Display/Windows 11 Pro / 3-Year ADP Warranty)",
-        "price": "₹40,990",
-        "rating": null,
-        "reviews": "M.R.P:"
+        "reviews": "235",
+        "image": "https://m.media-amazon.com/images/I/71JbL3-8pOL._AC_UY218_.jpg"
     },
     {
         "title": "HP OmniBook 5 OLED (Previously Pavilion), Snapdragon X Processor (16GB LPDDR5x, 512GB SSD) 2K, 14''/35.6cm, Win11, M365 Basic(1yr)* Office24, Silver, 1.35kg, he0014QU, Light-Weight, Next-Gen AI Laptop",
-        "price": "₹67,990",
-        "rating": "4.0 out of 5 stars",
-        "reviews": "29"
-    },
-    {
-        "title": "Lenovo Smartchoice Ideapad Slim 3 13Th Gen Intel Core I7-13620H 15.3 Inch(38.8Cm) WUXGA IPS Laptop(16GB RAM/512GB SSD/Windows 11/Office Home 2024/Backlit Keyboard/1Yr ADP Free/Grey/1.6Kg),83K100CJIN",
-        "price": "₹66,190",
-        "rating": "4.0 out of 5 stars",
-        "reviews": "154"
-    },
-    {
-        "title": "HP OmniBook 5 Metallic(Previously Pavilion) 13th Gen Intel Core i5 1334U (16GB LPDDR5X, 512GB SSD) WUXGA, 2K, IPS, 16''/40.6cm, Win11, M365 Basic(1yr)*Office24, Blue,1.79kg, ba1123TU,FHD camera Laptop",
-        "price": "₹62,490",
-        "rating": "4.0 out of 5 stars",
-        "reviews": "1,527"
-    },
-    {
-        "title": "Lenovo Yoga Slim 7 (Smartchoice) Intel Core Ultra 9 185H 14\"(35.5cm) WUXGA-OLED Laptop (32GB RAM/1TB SSD/AI PC/Windows 11/Microsoft 365 Basic + Office Home 2024/1Yr ADP Free/Grey/1.39Kg), 83CV00B3IN",
-        "price": "₹1,15,990",
-        "rating": "4.8 out of 5 stars",
-        "reviews": "6"
-    },
-    {
-        "title": "ASUS Vivobook 15,13th Gen,Intel Core i5-13420H(Intel UHD iGPU/16GB RAM/512GB SSD/FHD/15.6\"/60Hz/Backlit Keyboard/Windows 11/M365 Basic (1Year)*/Office Home 2024/Quiet Blue/1.70 kg) X1502VA-BQ836WS",
-        "price": "₹48,990",
-        "rating": "4.0 out of 5 stars",
-        "reviews": "188"
-    },
-    {
-        "title": "Acer SmartChoice ALG, 13th Gen Intel Core i5-13420H, NVIDIA GeForce RTX 3050-6GB DDR6, 16GB RAM, 512GB SSD, FHD 15.6\"/39.62 cm, 144Hz, Windows 11 Home, Steel Gray, 1.99 KG, AL15G-53,Gaming Laptop",
-        "price": "₹59,990",
-        "rating": "4.0 out of 5 stars",
-        "reviews": "75"
+        "price": "₹61,990",
+        "rating": "3.9 out of 5 stars",
+        "reviews": "29",
+        "image": "https://m.media-amazon.com/images/I/71fHNU8KnQL._AC_UY218_.jpg"
     },
     {
         "title": "ASUS ROG Strix G16, AMD Ryzen 9 8940HX, Gaming Laptop(RTX 5050-8GB/115W TGP/16GB RAM/1TB SSD/FHD+/16\"/165Hz/90Whr/Windows 11/M365 Basic (1Year)*/Office Home 2024/Eclipse Gray/2.5 Kg) G614PH-RV033WS",
-        "price": "₹1,39,990",
+        "price": "₹1,37,490",
         "rating": "5.0 out of 5 stars",
-        "reviews": "4"
+        "reviews": "5",
+        "image": "https://m.media-amazon.com/images/I/71EIItvt4bL._AC_UY218_.jpg"
+    },
+    {
+        "title": "Acer Aspire Lite, AMD Ryzen 3 5300U Processor, 16 GB RAM, 512GB SSD, Full HD, 15.6\"/39.62cm, Windows 11 Home, Steel Gray, 1.59KG, AL15-41, Metal Body, Premium Thin and Light Laptop",
+        "price": "₹26,490",
+        "rating": "3.9 out of 5 stars",
+        "reviews": "1,569",
+        "image": "https://m.media-amazon.com/images/I/513p8BwV-RL._AC_UY218_.jpg"
+    },
+    {
+        "title": "HP 14 (2025), Intel Core i3 13th Gen 1315U - (16 GB/512 GB SSD/Intel UHD Graphics/Windows 11 Pro) Thin and Light Business Laptop/14.0\" HD Display/Ash Grey/1.4 kg/MS Office 2021",
+        "price": "₹33,790",
+        "rating": null,
+        "reviews": "M.R.P:",
+        "image": "https://m.media-amazon.com/images/I/61pOa9nADEL._AC_UY218_.jpg"
+    },
+    {
+        "title": "MSI Katana A17 AI, AMD 8th Gen. Ryzen 9 8945HS,Built-in AI, 44CM Laptop(16GB/1TB NVMe SSD/Windows 11 Home/Nvidia GeForce RTX4050, 6GB GDDR6/Black/2.6Kg), B8VE-884IN",
+        "price": "₹93,990",
+        "rating": "4.4 out of 5 stars",
+        "reviews": "51",
+        "image": "https://m.media-amazon.com/images/I/71RgcZjmLBL._AC_UL320_.jpg"
+    },
+    {
+        "title": "ASUS Zenbook 14, Smartchoice,AMD Ryzen AI 5 340, AI PC(AMD Radeon Graphics/16GB RAM/512GB SSD/3K OLED/14/120Hz/Windows 11/M365 Basic (1Year)*/Office Home 2024/Jade Black/1.2 Kg) UM3406KA-PP240WS",
+        "price": "₹87,990",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "3",
+        "image": "https://m.media-amazon.com/images/I/71mO007X-PL._AC_UL320_.jpg"
+    },
+    {
+        "title": "Lenovo IdeaPad Slim 3 AMD Ryzen 7 8840HS 15.3 inch (38.8cm) WUXGA IPS AI PC Laptop(16GB RAM/512GB SSD/Windows 11/Office Home 2024/Backlit Keyboard/1Yr ADP Free/Grey/1.6Kg), 83KA0048IN",
+        "price": "₹59,990",
+        "rating": "5.0 out of 5 stars",
+        "reviews": "2",
+        "image": "https://m.media-amazon.com/images/I/81qhEwftqEL._AC_UL320_.jpg"
+    },
+    {
+        "title": "ASUS Vivobook 16, Smartchoice,AMD Ryzen AI 7 350, AI PC(AMD Radeon iGPU/16GB RAM/512GB SSD/FHD+/16\"/60Hz/42Whr/Windows 11/M365 Basic (1Year)*/Office Home 2024/Cool Silver/1.88 Kg) M1607KA-MB134WS",
+        "price": "₹67,990",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "6",
+        "image": "https://m.media-amazon.com/images/I/71J9I5QDvtL._AC_UL320_.jpg"
+    },
+    {
+        "title": "Dell 15, Intel Core i3 13th Gen - 1305U, 8GB DDR4 RAM, 512GB SSD, FHD 15.6\"/39.62 cm, Windows 11, MSO'21, Titan Grey, 1.69kg, 120Hz 250 nits Display, 15 Month McAfee, Thin & Light Laptop",
+        "price": "₹33,990",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "270",
+        "image": "https://m.media-amazon.com/images/I/71CRvTZxi8L._AC_UL320_.jpg"
+    },
+    {
+        "title": "HP Pavilion x360, 13th Gen Intel Core i5-1335U (16GB DDR4, 512GB SSD) Touchscreen, 14\"/35.6cm, FHD, Win 11, Office 21, Silver, 1.51kg, ek1074tu/1148tu, Iris Xe, FPR, 5MP Camera, Backlit KB Laptop",
+        "price": "₹64,990",
+        "rating": "3.7 out of 5 stars",
+        "reviews": "220",
+        "image": "https://m.media-amazon.com/images/I/618zAXbM4uL._AC_UY218_.jpg"
     },
     {
         "title": "Acer [SmartChoice Aspire 3 Laptop Intel Core Celeron N4500 Processor Laptop (8 GB LPDDR4X SDRAM/512 GB SSD/Win11 Home/38 WHR/HD Webcam) A325-45 with 39.63 cm (15.6\") HD Display, Pure Silver, 1.5 KG",
-        "price": "₹22,490",
+        "price": "₹21,490",
         "rating": "3.4 out of 5 stars",
-        "reviews": "528"
+        "reviews": "533",
+        "image": "https://m.media-amazon.com/images/I/71TpwcAN1PL._AC_UY218_.jpg"
     },
     {
-        "title": "HP Professional 15 (2025), Intel Core i5 13th Gen 1334U - (8 GB/512 GB SSD/Intel Iris Xe Graphics/Windows 11 Pro) Thin and Light Business Laptop/15.6\" FHD Display/Backlit/Turbo Silver/1.5 kg/MSO 2021",
-        "price": "₹50,490",
-        "rating": null,
-        "reviews": "M.R.P:"
+        "title": "HP Pavilion x360, 13th Gen Intel Core i5-1335U (16GB DDR4, 1TB SSD) FHD, 14''/35.6 cm, Touchscreen 2-in-1, Win 11, Office 21, Silver, 1.51 kg, ek1010TU/1149tu, FPR, 5MP Camera, B&O, Backlit Laptop",
+        "price": "₹68,990",
+        "rating": "3.7 out of 5 stars",
+        "reviews": "220",
+        "image": "https://m.media-amazon.com/images/I/61rES1ry1+L._AC_UY218_.jpg"
     },
     {
-        "title": "Primebook 2 Neo 2025 (New Launch) | 6GB RAM, 128GB Storage (Upgradable Upto 512GB) | MediaTek Helio G99 | Android 15 (PrimeOS3.0) | in-Built AI | 11.6” Thin & Light Laptop | Type-C, USB, MicroSD Ports",
-        "price": "₹15,990",
-        "rating": "4.6 out of 5 stars",
-        "reviews": "231"
-    },
-    {
-        "title": "Lenovo Yoga Slim 7, Intel Core Ultra 7 155H, 16GB RAM, 512GB SSD, WUXGA-OLED 14\"(35.5cm), Windows 11, Office Home 2024, Grey, 1.39Kg, 83CV009XIN, 400Nits, 2Wx4 Speakers, 1Yr ADP Free, AI PC",
-        "price": "₹90,490",
-        "rating": "3.6 out of 5 stars",
-        "reviews": "11"
-    },
-    {
-        "title": "Lenovo Yoga Slim 7 (Smartchoice) Intel Core Ultra 9 185H 14\"(35.5cm) WUXGA-OLED Laptop (32GB RAM/1TB SSD/AI PC/Windows 11/Microsoft 365 Basic + Office Home 2024/1Yr ADP Free/Grey/1.39Kg), 83CV00B3IN",
-        "price": "₹1,15,990",
-        "rating": "4.8 out of 5 stars",
-        "reviews": "6"
-    },
-    {
-        "title": "Lenovo Yoga Slim 7, Intel Core Ultra 5 125H, 16GB RAM, 512GB SSD, WUXGA-OLED 14\"(35.5cm), Windows 11, Office Home 2024, Grey, 1.39Kg, 83CV0085IN, 400Nits, 2Wx4 Speakers, 1Yr ADP Free, AI PC",
-        "price": "₹79,490",
-        "rating": "4.2 out of 5 stars",
-        "reviews": "13"
-    },
-    {
-        "title": "ASUS Vivobook S16,13th Gen,Intel Core i5-13420H,Metallic Design Laptop(Intel UHD iGPU/16GB RAM/512GB SSD/FHD+/16\"/144Hz/Windows 11/M365 Basic(1Year)*/Office Home 2024/Matte Gray/1.7 Kg)S3607VA-RP054WS",
-        "price": "₹58,990",
-        "rating": "4.6 out of 5 stars",
-        "reviews": "57"
-    },
-    {
-        "title": "ASUS TUF Gaming A15, AMD Ryzen 7 7435HS Gaming Laptop(NVIDIA RTX 3050-4GB/60W TGP/16GB RAM/512GB SSD/FHD/15.6\"/144Hz/RGB KB/48WHr/Windows 11//Graphite Black/2.30 Kg) FA506NCR-HN054W",
-        "price": "₹62,990",
-        "rating": "4.0 out of 5 stars",
-        "reviews": "372"
-    },
-    {
-        "title": "Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Midnight",
-        "price": "₹83,990",
-        "rating": "4.6 out of 5 stars",
-        "reviews": "336"
-    },
-    {
-        "title": "Acer Aspire Lite, Intel Core i7 12th Gen - 12650H, 16 GB RAM, 512 GB SSD, Full HD IPS 15.6\"/39.62 cm, Windows 11 Home, MS Office, Pure Silver, 1.70 KG, AL15-52H, Backlit Keyboard Laptop",
-        "price": "₹53,999",
-        "rating": "5.0 out of 5 stars",
-        "reviews": "4"
+        "title": "Walker Best Student &Office Work Laptop|Thin & Light|14.1\" 1920 * 1080 Resolution FHD IPS Display |4GB RAM,128GB SSD|Celeron Processor N4020 (Gemini Lake)| Windows 11 Home | Silver",
+        "price": "₹12,190",
+        "rating": "3.3 out of 5 stars",
+        "reviews": "161",
+        "image": "https://m.media-amazon.com/images/I/61zWFTCfWeL._AC_UY218_.jpg"
     },
     {
         "title": "HP 14, 13th Gen Intel Core i3-1315U Laptop (8GB DDR4,512GB SSD) Anti-Glare, Micro-Edge, 14/35.6cm, FHD, Win11, M365 Basic(1yr),Office Home24, Silver,1.4kg, FHD Camera w/Privacy Shutter, ep0341TU",
         "price": "₹36,990",
         "rating": "3.9 out of 5 stars",
-        "reviews": "327"
+        "reviews": "329",
+        "image": "https://m.media-amazon.com/images/I/71wXgNowzAL._AC_UY218_.jpg"
     },
     {
-        "title": "acer Aspire Go 14, Intel Core Ultra 5 125H (14th Gen),16GB DDR5 RAM/512GB SSD, WUXGA IPS, 14.0\"/35.56 cm, Win 11, MS Office, Steel Gray, 1.5 kg, AG14-71M,Backlit Keyboard, AI Powered Premium Laptop",
-        "price": "₹52,999",
-        "rating": "3.6 out of 5 stars",
-        "reviews": "30"
+        "title": "Acer Aspire Lite, AMD Ryzen 3-5300U, 8 GB RAM, 512 GB SSD, Full HD 15.6\"/39.62 cm, Windows 11 Home, Steel Gray, 1.59 KG, AL15-41, Premium Laptop",
+        "price": "₹25,490",
+        "rating": "3.9 out of 5 stars",
+        "reviews": "1,569",
+        "image": "https://m.media-amazon.com/images/I/513p8BwV-RL._AC_UY218_.jpg"
+    },
+    {
+        "title": "ASUS Vivobook 14, Smartchoice,AMD Ryzen AI 5 330, Copilot AI PC(AMD Radeon iGPU/50 Tops*/16GB RAM/512GB SSD/FHD+/14\"/Windows 11/M365 Basic (1Year)*/Office Home 2024/Quiet Blue/1.46Kg) M1407KA-LY132WS",
+        "price": "₹53,990",
+        "rating": null,
+        "reviews": "M.R.P.:",
+        "image": "https://m.media-amazon.com/images/I/71p+KdSmmaL._AC_UY218_.jpg"
+    },
+    {
+        "title": "HP 15, Intel Ultra 5 125H (16GB DDR5, 1TB SSD) FHD, IPS, 15.6''/39.6cm, Win11, M365 Basic(1yr)* Office24, Silver, 1.65kg, fd1255TU, Intel Arc Graphics, FHD Camera w/Shutter, AI Powered Laptop",
+        "price": "₹60,990",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "1,534",
+        "image": "https://m.media-amazon.com/images/I/71XfYUeA+aL._AC_UL640_QL65_.jpg"
+    },
+    {
+        "title": "Acer SmartChoice Aspire Lite, AMD Ryzen 5-5625U Processor, 16 GB/512 GB, Full HD, 15.6\"/39.62 cm, Windows 11 Home, Steel Gray, 1.59 kg, AL15-41, Metal Body, Thin and Light Laptop",
+        "price": "₹29,990",
+        "rating": "3.9 out of 5 stars",
+        "reviews": "1,569",
+        "image": "https://m.media-amazon.com/images/I/61k0gpxQwCL._AC_UY218_.jpg"
+    },
+    {
+        "title": "Primebook 2 Neo 2025 (New Launch) | 6GB RAM, 128GB Storage (Upgradable Upto 512GB) | MediaTek Helio G99 | Android 15 (PrimeOS3.0) | in-Built AI | 11.6” Thin & Light Laptop | Type-C, USB, MicroSD Ports",
+        "price": "₹14,990",
+        "rating": "4.6 out of 5 stars",
+        "reviews": "245",
+        "image": "https://m.media-amazon.com/images/I/713cu-sW3TL._AC_UY218_.jpg"
     },
     {
         "title": "ASUS Vivobook Go 14, AMD Ryzen 5 7520U,Thin & Light Laptop (AMD Radeon iGPU/16GB RAM/512GB SSD/FHD/14/60Hz/42WHrs/Windows 11/M365 Basic (1Year)*/Office Home 2024/Mixed Black/1.38 kg) E1404FA-NK5542WS",
-        "price": "₹37,990",
-        "rating": "3.8 out of 5 stars",
-        "reviews": "63"
-    },
-    {
-        "title": "Acer Aspire Lite, AMD Ryzen 3 7330U Processor, 8 GB RAM, 512 GB SSD, Full HD, 15.6\"/39.62cm, Windows 11 Home, Steel Gray, 1.6KG, AL15-41, Metal Body, Premium Thin and Light Laptop",
-        "price": "₹28,990",
+        "price": "₹37,994",
         "rating": "3.9 out of 5 stars",
-        "reviews": "1,551"
+        "reviews": "64",
+        "image": "https://m.media-amazon.com/images/I/71BZ8gtU6sL._AC_UY218_.jpg"
     },
     {
-        "title": "Lenovo IdeaPad Pro 5, Intel Core Ultra 9 185H, 32GB RAM, 1TB SSD, 2.8K OLED 14\"(35.5cm), Windows 11, Office Home 2024, Grey, 1.46Kg, 83D2004XIN, Built-in AI, 400Nits, 120Hz, 1Yr ADP Free Laptop",
-        "price": "₹1,11,990",
+        "title": "ASUS TUF Gaming A15, AMD Ryzen 7 7435HS Gaming Laptop(NVIDIA RTX 3050-4GB/60W TGP/16GB RAM/512GB SSD/FHD/15.6\"/144Hz/RGB KB/48WHr/Windows 11//Graphite Black/2.30 Kg) FA506NCR-HN054W",
+        "price": "₹62,990",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "378",
+        "image": "https://m.media-amazon.com/images/I/61nTNphSBvL._AC_UY218_.jpg"
+    },
+    {
+        "title": "HP 255 G10 AMD Athlon Dual Core 7120U - (8 GB/256 GB SSD/Windows 11 Home) Thin and Light Laptop (15.6 inch, Ash Silver, 1.35 kg)",
+        "price": "₹22,116",
+        "rating": "3.7 out of 5 stars",
+        "reviews": "102",
+        "image": "https://m.media-amazon.com/images/I/71rw7cd14mL._AC_UY218_.jpg"
+    },
+    {
+        "title": "Acer[SmartChoice Aspire Lite 12thGen Intel Core i5-12450H Premium Laptop(Win11Home/16GB RAM/512GB SSD/IntelUHD Graphics/MSO)AL15-52H, 39.62cm(15.6\") FHD IPS Display,Backlit Keyboard,Pure Silver, 1.7KG",
+        "price": "₹40,990",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "475",
+        "image": "https://m.media-amazon.com/images/I/612TNOGY-1L._AC_UY218_.jpg"
+    },
+    {
+        "title": "Acer Aspire 3 Laptop Intel Core Celeron N4500 Processor Laptop (8 GB LPDDR4X SDRAM/256 GB SSD/Win11 Home/38 WHR/HD Webcam) A324-45 with 35.56 cm (14\") HD Display, Pure Silver, 1.3 KG",
+        "price": "₹20,970",
+        "rating": "3.4 out of 5 stars",
+        "reviews": "533",
+        "image": "https://m.media-amazon.com/images/I/61Y8j1QN5YL._AC_UY218_.jpg"
+    },
+    {
+        "title": "Neopticon BrowseBook 14.1\" FHD IPS Laptop | Celeron N4020 Dual Core up to 2.8GHz | 4GB RAM | 128GB SSD | UHD Graphics | Win 11 Home | 38Wh | 1.3kg | Grey",
+        "price": "₹11,990",
+        "rating": "3.9 out of 5 stars",
+        "reviews": "6",
+        "image": "https://m.media-amazon.com/images/I/71h+7L8gcrL._AC_UY218_.jpg"
+    },
+    {
+        "title": "MSI Katana A17 AI, AMD 8th Gen. Ryzen 9 8945HS,Built-in AI, 44CM Laptop(16GB/1TB NVMe SSD/Windows 11 Home/Nvidia GeForce RTX4050, 6GB GDDR6/Black/2.6Kg), B8VE-884IN",
+        "price": "₹93,990",
+        "rating": "4.4 out of 5 stars",
+        "reviews": "51",
+        "image": "https://m.media-amazon.com/images/I/71RgcZjmLBL._AC_UY218_.jpg"
+    },
+    {
+        "title": "ASUS Zenbook 14, Smartchoice,AMD Ryzen AI 5 340, AI PC(AMD Radeon Graphics/16GB RAM/512GB SSD/3K OLED/14/120Hz/Windows 11/M365 Basic (1Year)*/Office Home 2024/Jade Black/1.2 Kg) UM3406KA-PP240WS",
+        "price": "₹87,990",
+        "rating": "4.0 out of 5 stars",
+        "reviews": "3",
+        "image": "https://m.media-amazon.com/images/I/71mO007X-PL._AC_UY218_.jpg"
+    },
+    {
+        "title": "E GATE Atom 3X | Real Full HD 1080p Native, 13.0 Automatic Android Projector | 300 ISO | Rotatable Design | 4K HDR Support | Inbuilt Netflix, Prime | ARC-HDMI, USB, Wifi-6, BT, Screen Mirroring, Egate",
+        "price": "₹5,990",
         "rating": "4.1 out of 5 stars",
-        "reviews": "11"
-    },
-    {
-        "title": "ASUS Vivobook 16, Intel Core i7-12700H, 16GB DDR4, 512GB SSD, WUXGA 16:10 60Hz, 16\"/40.64cm, Windows 11, MS Office 2021, Transparent Silver, 1.88KG, X1605ZAC-MB741WS, Intel Iris Xe Graphics Laptop",
-        "price": "₹54,990",
-        "rating": "3.6 out of 5 stars",
-        "reviews": "32"
-    },
-    {
-        "title": "MENHOOD Men's WaterProof Cordless Grooming Trimmer for Men, Suitable for Beard, Body Private Part Shaving, Head and Pubic Hair, 150min Run Time (Black)",
-        "price": "₹3,156.99",
-        "rating": "4.1 out of 5 stars",
-        "reviews": "6,831"
+        "reviews": "999",
+        "image": "https://m.media-amazon.com/images/I/71BoB+5wXXL._AC_UL640_QL65_.jpg"
     }
 ]
